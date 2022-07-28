@@ -1,0 +1,33 @@
+h1{
+    color: rgb(210, 58, 137);
+  font-size: xx-large;
+
+
+font-style: unset;
+font-weight: 300;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+body{
+    background: rgb(167, 164, 165);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: x-large;
+    color: rgb(68, 169, 169);
+}
+#container{
+    
+    width: 1100px;
+    margin: 0px auto;
+    border: 1px solid black;
+
+}
+head{
+    background: red;
+    height: 100px;
+    width: 100%;
+
+}
+nav ul li{
+    float: left;
+    list-style: none;
+    margin: 10px;
+}
